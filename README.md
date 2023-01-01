@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Tibiang Yeshua Doumgou
-- 👀 I’m interested in symfony, php, c, c++, c#, java, js, unity, lua, unreal engine, solar2d, godot.
+- 👀 I’m interested in symfony, php, c, c++, c#, java, js, unity, lua, unreal engine, solar2d, godot, react.
 - 🌱 I’m currently learning unity unreal engine, react, machine learning I'm a software engineering student.
 - 📫 Contact me at doungouyesh@gmail.com 
 

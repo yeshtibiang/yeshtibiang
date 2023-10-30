@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Tibiang Yeshua Doumgou, Game developper in Unity and Godot
+- 👋 Hi, I’m Tibiang Yeshua Doumgou, Software engineer, Game developper in Unity and Godot
 - 👀 I’m interested in symfony, php, c, c++, c#, java, js, unity, lua, unreal engine, solar2d, godot, react.
 - 📫 Contact me at doungouyesh@gmail.com 
 
